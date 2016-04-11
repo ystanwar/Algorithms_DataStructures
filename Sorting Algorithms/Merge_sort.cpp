@@ -1,6 +1,8 @@
 /**
   Merge Sort : The array is breakdown to the individual element and then merged in the sorted arrays : 
   This uses Divide and Conquer technique
+  Avg. running time complexity is O(nlogn);
+  The actual process of sorting happens at the combining process
 **/
 
 #include<iostream>

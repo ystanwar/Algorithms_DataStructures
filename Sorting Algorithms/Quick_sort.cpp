@@ -1,5 +1,10 @@
 /**
-  Quick Sort : 
+  Quick Sort : This is one of the best sorting technique available....
+  It uses the  divide and conqoure technique but unlike merge sort entire comparisons happen at the resusion..nd nothing happens at combining
+  It lies in between the insertion sort(conquor at place)  and merge sort(divide);
+  average tc : O(nlogn) like merge sort
+  worst case tc : O(n^2) like insertion sort
+  
 **/
 
 #include<iostream>
